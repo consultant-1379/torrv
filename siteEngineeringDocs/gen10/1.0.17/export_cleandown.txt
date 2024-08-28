@@ -1,0 +1,12 @@
+export MWS_LIST=10.32.225.26
+export DICTIONARY="10.32.225.26':{
+'NFS_SHARE_LIST':[atlgn10-cluster,atlgn10-data,atlgn10-logstash,atlgn10-no_rollback,atlgn10-rsyslog,atlgn10-storadm_home,atlgn10-storobs_home],
+'NFS_SHARE_IP_LIST':[10.59.134.188,10.59.134.190,10.59.134.174],
+'SFS_CONNECTIVITY_INFO':[10.59.134.215,master,master,/var/NASService/locks/SFS/],
+'MWS_CONNECTIVITY_INFO':[10.32.225.26,root,12torrv,159.107.173.12],
+'SAN_GROUP_LIST':[LITP_atlgn10_atrcxb3038_GRP,LITP_atlgn10_atrcxb3030_GRP],
+'SAN_HOST_LIST':[LITP_atlgn10_atrcxb3038_HST,LITP_atlgn10_atrcxb3030_HST],
+'SAN_NODES_ILO_IP_LIST':[10.82.18.13,10.82.18.21],
+'SAN_NODES_ILO_USER_LIST':[root,root],
+'SAN_NODES_ILO_PASSWORD_LIST':[shroot12,shroot12],
+'SAN_CONNECTIVITY_INFO':[10.45.211.176,root,shroot12,global,/opt/Navisphere/bin/naviseccli]}"

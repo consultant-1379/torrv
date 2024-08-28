@@ -1,0 +1,9 @@
+deployment_name=atmws39
+site_eng_doc_path=/var/tmp/tor/Site_Engineering_Data_atmws39
+litp_service_pack_path=/var/tmp/tor/sp26_ec009.tar
+patches_archive_path=/var/tmp/patches/19089-CXP9022639_Ux_C_RHEL_Patches.tar
+tor_iso_path=/var/tmp/tor/ERICtor_CXP9030100-1.6.69
+torinst_external_rpm=
+
+omsas_ip=10.45.206.213
+omsas_password=shroot

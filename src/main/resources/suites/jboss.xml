@@ -1,0 +1,11 @@
+<suite name="Suite">
+        <!-- This is a comment in the suite.xml file -->
+        <test name="Rv Test">
+                <classes>
+ 						<class name="com.ericsson.nms.rv.test.cases.Litp" /> 
+						<class name="com.ericsson.nms.rv.test.cases.Jboss" />
+ 						<class name="com.ericsson.nms.rv.test.cases.UI_SSO" /> 
+ 						<class name="com.ericsson.nms.rv.test.cases.PM_FM" /> 
+                </classes>
+        </test>
+</suite>
